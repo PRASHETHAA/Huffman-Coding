@@ -24,9 +24,15 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
 
 ## Program:
+
+*/ Developed by: Aishree Ramesh
+<br>
+Register Number: 212220230003 /*
+
+
 ``` Python
 # Get the input String
-string = 'vijayaragavan'
+string = 'from robomaster import robot'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -78,7 +84,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![image](./img/output.png)
+![image](https://user-images.githubusercontent.com/70213227/174142682-599f797a-c202-471f-ad72-bd3af4b9365d.png)
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
