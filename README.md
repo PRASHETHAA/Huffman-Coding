@@ -86,6 +86,7 @@ for (char, frequency) in freq:
 <br>
 <br>
 <br>
+    
 ## Output:
 
 ### Print the characters and its huffmancode
